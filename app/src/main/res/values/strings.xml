@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Data Mahasiswa</string>
+
+    <string-array name="pilihkelas">
+        <item>--Pilih--</item>
+        <item>X RPL</item>
+        <item>X OTKP</item>
+        <item>X AKL</item>
+        <item>XI RPL</item>
+        <item>XI OTKP</item>
+        <item>XI AKL</item>
+        <item>XII RPL</item>
+        <item>XII AKL</item>
+        <item>XII OTKP</item>
+    </string-array>
+
+    <string-array name="pilihagama">
+        <item>---Pilih---</item>
+        <item>Islam</item>
+        <item>Katolik</item>
+        <item>Protestan</item>
+        <item>Budha</item>
+        <item>Hindu</item>
+        <item>Konghucu</item>
+    </string-array>
+
+    <string name="labelNPSN">NPSN</string>
+    <string name="labelNama">Nama</string>
+    <string name="labelKelas">Kelas</string>
+    <string name="labelJK">Jenis Kelamin</string>
+    <string name="labelTemLahir">Tempat Lahir</string>
+    <string name="labelTanggalLahir">Tanggal Lahir</string>
+    <string name="labelAgama">Agama</string>
+</resources>
